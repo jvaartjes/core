@@ -54,6 +54,7 @@ FLOWS = [
     "canary",
     "cast",
     "cert_expiry",
+    "cisco_business_dashboard",
     "climacell",
     "cloudflare",
     "co2signal",
